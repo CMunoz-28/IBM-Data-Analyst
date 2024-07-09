@@ -1,11 +1,7 @@
 # Data-Analyst-IBM
-<p>I am thrilled to have completed the final assignment for my "Databases and SQL for Data Science with Python" course with IBM. Learning SQL as a new programming language was challenging, especially mastering its complexities for effective data manipulation. 
-Despite the difficulties, I am pleased with my work and results. To share my journey and findings, I have stored a copy of the files on GitHub as a repository. Feel free to check it out to see my progress and results.</p>
-
-As part of my Python for data analysis certification course, I've been working on a comprehensive project encompassing various aspects of data analysis, including data collection, cleaning, visualization, and interpretation. The project involves analyzing an extensive dataset related to e-commerce transactions to uncover patterns and insights that can inform business decisions.
-
+<p>To share my journey and findings, I have stored a copy of the files on GitHub as a repository. I am thrilled to have completed the final assignments for my "IBM Data Analyst" course on Coursera. Learning SQL and Python as a new programming language was challenging, especially mastering its complexities for effective data manipulation and analytics. Despite the difficulties, I am pleased with the work I did and the results that came with it. Feel free to check it out to see my progress and results.</p>
 <p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dwM2Z1OWk4emt1eDhwdnkwa3hmaGt5aTgyam1pY2NwZTQ1dHVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.webp" alt="Python Animation" style= width:"500px;height:"500px;" align="right"></p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dwM2Z1OWk4emt1eDhwdnkwa3hmaGt5aTgyam1pY2NwZTQ1dHVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.webp" alt="Python Animation" style= width:"200px;height:"200px;" align="right"></p>
 
 ### Challenges Faced
 
@@ -28,4 +24,4 @@ As part of my Python for data analysis certification course, I've been working o
 3. **Automation**: Python knowledge can automate repetitive data analysis tasks, increasing efficiency and reducing the likelihood of errors.
 4. **Reporting and Visualization**: Creating clear and compelling visual reports to communicate findings effectively to stakeholders is crucial in any data-driven role.
 
-This project has been a significant step in my journey to becoming a proficient data analyst. It has equipped me with the skills and confidence needed to tackle real-world data challenges.
+This project has been a significant step in my journey to becoming a proficient data analyst. It has equipped me with the skills and confidence to tackle real-world data challenges.
